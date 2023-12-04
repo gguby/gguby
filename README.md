@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=400&section=header&text=Hi%20there,%20i'm%20gguby&fontSize=60&fontColor=d6acc5&desc=iOS%20developer&animation=fadeIn&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=400&section=header&text=gguby&fontSize=60&fontColor=d6acc5&desc=iOS%20developer&animation=fadeIn&descSize=20)
 ![Senior Developer](https://img.shields.io/badge/10+years-iOS-brightgreen) 
 
 ---
